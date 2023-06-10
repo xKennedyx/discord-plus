@@ -21,7 +21,7 @@
   --dplus-backdrop: color: #e493d8;
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-hue: 255, 153, 221;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
 
